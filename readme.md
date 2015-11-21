@@ -10,7 +10,7 @@ Karma runs the tests in the browser, but reports them in the CLI. This greatly i
 
 ## Usage
 
-Install it globally `npm install -g generator-karma`.
+Install it globally `npm install -g yo https://github.com/DiscoPogo/generator-karma/tarball/dp`.
 
 Running `yo karma` will generate a config file for your project: `karma.conf.js`. It will then install the npm dependencies.
 
